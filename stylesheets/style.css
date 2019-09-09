@@ -1,0 +1,36 @@
+#logo{
+    width : 400px;
+}
+
+#header{
+    padding: 0%;
+    margin-bottom: 40px;
+}
+
+body {
+    text-align: center;
+}
+
+#sections{
+    list-style: none;
+    padding: 0%;
+    color: darkred;
+}
+
+
+.grow { transition: all .2s ease-in-out; }
+.grow:hover { transform: scale(1.1); }
+
+#ava{
+    margin-top: 10px;
+    width: 400px;
+}
+
+table {
+    margin : auto;
+
+}
+
+td {
+    text-align: center;
+}
